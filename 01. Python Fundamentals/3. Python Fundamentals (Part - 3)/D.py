@@ -3,6 +3,9 @@
 marks = [98, 96, 99, 91, 93]
 
 # print(marks)
+
+print(marks)
+
 print(marks[2])
 
 marks[2] = 77

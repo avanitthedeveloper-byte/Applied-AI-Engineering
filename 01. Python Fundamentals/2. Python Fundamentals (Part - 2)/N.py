@@ -11,7 +11,7 @@ helloFive()
 '''
 
 # With Parameters
-def sumOfTwoNumber(num1, num2):
-    return num1+num2
+def sumOfTwoNumber(num1, num2, num3 = 10):
+    return num1+num2+num3
 
 print(sumOfTwoNumber(5, 6))

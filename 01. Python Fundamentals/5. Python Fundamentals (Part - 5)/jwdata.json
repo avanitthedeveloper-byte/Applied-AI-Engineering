@@ -1,0 +1,13 @@
+{
+    "address": {
+        "city": "Pondicherry",
+        "country": "India"
+    },
+    "isProgrammer": true,
+    "name": "Cipher Mind",
+    "sub": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence"
+    ]
+}

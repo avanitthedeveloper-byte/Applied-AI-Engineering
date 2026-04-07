@@ -353,5 +353,5 @@ if __name__ == "__main__":
     room.show_chat_history()
 
     u1.leave_chatroom()
-    u1.leave_chatroom()
-    u1.leave_chatroom()
+    u2.leave_chatroom()
+    u3.leave_chatroom()

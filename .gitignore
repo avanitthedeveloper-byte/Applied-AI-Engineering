@@ -1,2 +1,43 @@
 # macOS system files
 .DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Data files (large datasets should not be pushed)
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.parquet
+
+# Model files (store separately or use Git LFS if needed)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/

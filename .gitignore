@@ -41,3 +41,20 @@ Thumbs.db
 # IDE/project settings
 .vscode/
 .idea/
+
+# Ignore Jupyter virtual documents
+.virtual_documents/
+
+# Ignore Anaconda/DB files
+anaconda_projects/
+*.db
+
+# Ignore PDFs and large data files
+*.pdf
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/

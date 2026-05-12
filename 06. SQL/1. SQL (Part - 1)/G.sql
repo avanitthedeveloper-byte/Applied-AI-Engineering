@@ -1,0 +1,16 @@
+-- 7. Database Queries
+
+CREATE DATABASE college;
+
+CREATE DATABASE IF NOT EXISTS college;
+
+CREATE DATABASE IF NOT EXISTS instagram;
+
+SHOW DATABASES;
+
+USE instagram;
+SHOW TABLES;
+
+DROP DATABASE college;
+
+DROP DATABASE instagram;

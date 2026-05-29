@@ -54,4 +54,3 @@ SELECT department, COUNT(*) AS employee_count
 FROM EMPP
 GROUP BY department
 HAVING COUNT(*) >= 3;
-~

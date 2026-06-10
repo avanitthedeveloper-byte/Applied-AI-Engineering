@@ -19,13 +19,6 @@ venv/
 *.log
 *.tmp
 
-# Data files (large datasets should not be pushed)
-*.csv
-*.tsv
-*.json
-*.xlsx
-*.parquet
-
 # Model files (store separately or use Git LFS if needed)
 *.h5
 *.hdf5
@@ -48,13 +41,6 @@ Thumbs.db
 # Ignore Anaconda/DB files
 anaconda_projects/
 *.db
-
-# Ignore PDFs and large data files
-*.pdf
-*.csv
-*.xlsx
-*.json
-*.parquet
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints/
